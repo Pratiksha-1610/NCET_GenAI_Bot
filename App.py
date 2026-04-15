@@ -3,7 +3,7 @@ from groq import Groq
 
 st.set_page_config("ChatBot Created By Pratiksha", layout="wide")
 st.title("PragyanAI – Content Generator")
-st.image("WhatsApp Image 2025-10-29 at 13.16.56_0fce599c.jpg")
+st.image("WhatsApp Image 2026-04-15 at 12.14.35 PM.jpeg")
 # Get GROQ API Key
 client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 # Get Product Name and Audience for That Product
